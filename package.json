@@ -3,9 +3,6 @@
   "version": "0.0.4",
   "description": "Cast props to vue components",
   "main": "src/index.js",
-  "module": "dist/vue-cast-props.es.js",
-  "unpkg": "dist/vue-cast-props.js",
-  "browser": "dist/vue-cast-props.es.js",
   "author": {
     "name": "Antério vieira",
     "email": "anteriovieira@gmail.com"
